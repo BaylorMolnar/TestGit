@@ -1,11 +1,12 @@
-msg="hello world"
+msg = "hello world"
 
 print(msg)
 
-a=1
-b=2
+a = 1
+b = 2
 
-c=a+b
+c = a + b
 
-print(c) 
-
+print(c)
+print(c)
+print(c)
